@@ -1,6 +1,8 @@
 # DeskPeek 
 
-![Logo](https://github.com/otglotv22/DeskPeek/assets/143334183/7ae0eeed-8ba0-46e6-8b42-2ca62c444c53)
+<p align="center">
+  <img src="https://github.com/otglotv22/DeskPeek/assets/143334183/32872789-2d47-4183-93c7-39fc656d3ebe" alt="DeskPeek Logo">
+</p>
 
 🌟 **DeskPeek:** Your Instant macOS Desktop Revealer <br>
 DeskPeek is an innovative macOS menu bar app designed to enhance your workflow by providing instant access to your desktop with just a single click. Whether you're a power user juggling multiple applications or someone who frequently needs a clear workspace, DeskPeek offers a seamless and efficient solution to declutter your screen.
